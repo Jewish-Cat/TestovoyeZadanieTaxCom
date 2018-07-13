@@ -1,0 +1,7 @@
+C:\Users\goodv\source\repos\TestovoyeZadanie\TestovoyeZadanie\bin\Debug\TestovoyeZadanie.exe.config
+C:\Users\goodv\source\repos\TestovoyeZadanie\TestovoyeZadanie\bin\Debug\TestovoyeZadanie.exe
+C:\Users\goodv\source\repos\TestovoyeZadanie\TestovoyeZadanie\bin\Debug\TestovoyeZadanie.pdb
+C:\Users\goodv\source\repos\TestovoyeZadanie\TestovoyeZadanie\obj\Debug\TestovoyeZadanie.csprojAssemblyReference.cache
+C:\Users\goodv\source\repos\TestovoyeZadanie\TestovoyeZadanie\obj\Debug\TestovoyeZadanie.csproj.CoreCompileInputs.cache
+C:\Users\goodv\source\repos\TestovoyeZadanie\TestovoyeZadanie\obj\Debug\TestovoyeZadanie.exe
+C:\Users\goodv\source\repos\TestovoyeZadanie\TestovoyeZadanie\obj\Debug\TestovoyeZadanie.pdb
